@@ -10,6 +10,7 @@ lemmatizer = nltk.stem.WordNetLemmatizer()
 
 intents = json.loads(open('intents.json').read())
 
+# Using REGEXdvdvchdvcghdcvdctsfcvcufcvjhfgvvuvfghvvjc
 words = []
 classes = []
 documents = []
